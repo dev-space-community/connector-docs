@@ -1,5 +1,8 @@
 # JIRA Connector User Documentation
 
+## Overview
+The Jira Connector is a powerful tool designed to streamline your project management workflow by seamlessly integrating with your Jira instance. It allows users to effortlessly retrieve comprehensive issue data from their specified projects. The connector will fetch all associated issues, including key details like description, summary, status, assignee, comments, and more. This connector is ideal for users who need quick access to detailed Jira project information, enabling informed decision-making and efficient project tracking through our products **ACE Search and Chat**.
+
 ## 1. Server URL
 The server URL is the base URL of your Jira instance. 
 
@@ -32,3 +35,21 @@ The project key is a unique identifier for your Jira project. You can find it in
 - **Username:** `your-email@example.com`
 - **API Token:** Generated from the Atlassian API token page.
 - **Project Key:** Visible in the project details or URL in Jira.
+
+## Supported entities:
+
+1. Issue Description
+2. Issue Key
+3. Issue Summary
+4. Issue Status
+5. Issue Assignee
+6. Issue Reporter
+7. Issue Created at
+8. Issue Updated at
+9. Project name
+10. Issue Comments
+11. Issue Labels
+12. Worklogs
+13. Components
+14. Versions
+15. Sprints
