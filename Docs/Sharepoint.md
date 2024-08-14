@@ -1,7 +1,7 @@
 # SharePoint User Documentation
 
 ## Overview
-The SharePoint Connector allows you to seamlessly connect to your SharePoint site and extract file contents from specified directories. By providing a few key pieces of information, you can access and retrieve data from your SharePoint environment directly.
+The SharePoint Connector allows you to seamlessly connect to your SharePoint site and extract file contents from specified directories. By providing a few key pieces of information, you can access and retrieve data from your SharePoint environment directly to use it into our products **ACE Search and Chat**..
 
 ## Required Inputs
 To use the SharePoint Connector, you need to provide the following information:
