@@ -1,7 +1,7 @@
 # Confluence User Documentation
 
 ## Overview
-The Confluence Connector allows you to connect to your Confluence instance and extract data from specific spaces or pages. By entering a few essential details, you can access and retrieve the content you need from your Confluence environment.
+The Confluence Connector allows you to connect to your Confluence instance and extract data from specific spaces or pages. By entering a few essential details, you can access and retrieve the content you need from your Confluence environment. Whether you're looking to gather comprehensive information from specific spaces or individual pages, the Confluence Connector ensures you have all the details you need in a structured and organized format. Perfect for users who need quick and easy access to Confluence content, facilitating efficient documentation management and collaboration using our products **ACE Search and Chat**.
 
 ## Required Inputs
 To use the Confluence Connector, you need to provide the following information:
