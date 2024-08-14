@@ -1,5 +1,8 @@
 # Google Drive Connector User Documentation
 
+## Overview
+The Google Drive Connector is a versatile tool designed to facilitate seamless access to your Google Drive files and folders. With just a few inputs, this connector allows you to quickly retrieve, organize, and manage your Google Drive content. Whether you’re dealing with documents, spreadsheets, PPTs or any other file type, the Google Drive Connector ensures you have easy and structured access to your file contents in our products **ACE Search and Chat**.
+
 ## Set Up the Service Account
 
 1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
@@ -33,3 +36,11 @@ If you have nested folders and want to extract data from specific folders:
 2. Create multiple connectors with folder paths.
    - For example, create one connector with `Test/folder1` and another with `Test/folder2`.
    - Alternatively, you can share both folders with the service account and provide their names in separate knowledge entries.
+
+## Supported file types:
+
+1. PDF
+2. DOCX
+3. PPTX
+4. TXT
+5. XLSX 
