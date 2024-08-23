@@ -57,6 +57,9 @@ To create an instance of the `APIConnector` class, you need to provide various p
 
 ### Example Usage
 
+> **Note:**
+> Please use double quotes inside a dictionary format, Please see `Headers`, `Body` below.
+
 Here’s an example of how you might fill in the parameters:
 
 1. **Endpoint**:  
@@ -74,7 +77,7 @@ Here’s an example of how you might fill in the parameters:
 5. **Headers**:  
    `headers: {"Content-Type": "application/json"}`
 
-6. **Query Parameters**:  
+6. **Parameters**:  
    `params: {"q": "search_term", "limit": 10}`
 
 7. **Body**:  
