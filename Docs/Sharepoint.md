@@ -37,7 +37,10 @@ To use the SharePoint Connector, you need to provide the following information:
 ### 5. Remote Directory
 - **Description:** The Remote Directory specifies the folder within the SharePoint site from which you want to extract files. This can be a path to a specific document library or sub-folder within the site.
 - **Where to Find:**
-  - Navigate to the desired folder in your SharePoint site and note the path. The path usually follows the Site URL, like `/Shared Documents/FolderName`.
+  - Navigate to the desired folder in your SharePoint site and note the path. The path usually follows the Site URL, like `FolderName1/FolderName2`.
+  - For example:
+    ![Sharepoint](Images/Github3.png)
+    In this case, the 'Documents' is a default folder. So the path will be: `General/Product Docs/Connectors User docs/Github`
 
 ## Setting up API Permissions
 On the left-hand navigation menu under **Manage**, open **API Permissions**. There are two options for API Permissions. Choose any one:
